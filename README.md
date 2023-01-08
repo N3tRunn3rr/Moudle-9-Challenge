@@ -121,3 +121,6 @@ You are required to submit the following for review:
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+https://drive.google.com/file/d/1D6s6sdxdhfVIIf1LJ_8LISIOHwkyl2Sg/view
+link to the video walkthrough of the application 
